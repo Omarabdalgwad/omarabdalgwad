@@ -4,7 +4,7 @@
 </p>
 
 ### About Me 
-- <h4 align="left">Second-year BIS student</h4>
+*  Second-year BIS student
 *  Currently working on **Grabit**
 *  Learning **Data Structures, Algorithms & Data Engineering**
 *  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
@@ -20,7 +20,6 @@
 </p>
 
 ---
-
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarabdalgwad" />
