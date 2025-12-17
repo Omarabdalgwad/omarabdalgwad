@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/omar-abdalgwad-1a5876328" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/ucg2atswlawyc_jpkdaunuvg" target="_blank">
+  <a href="https://youtube.com/@omarabdalgwad21?si=7rRYJuoUWEQV2Gnm" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
 </p>
