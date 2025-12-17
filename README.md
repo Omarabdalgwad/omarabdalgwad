@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Abdalgwad</h1>
+<h1 align="center">Hi , I'm Omar Abdalgwad</h1>
 <h3 align="center">Second-year BIS student</h3>
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 👨‍💻 About Me
-* 🔭 Currently working on **Grabit**
-* 🌱 Learning **Data Structures, Algorithms & Data Engineering**
-* 📫 Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
+*  Currently working on **Grabit**
+*  Learning **Data Structures, Algorithms & Data Engineering**
+*  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
 ---
 
 ### 🌐 Connect with Me
