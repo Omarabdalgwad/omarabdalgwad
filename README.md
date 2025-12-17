@@ -6,7 +6,6 @@
 </p>
 
 👨‍💻 About Me
-
 * 🔭 Currently working on **Grabit**
 * 🌱 Learning **Data Structures, Algorithms & Data Engineering**
 * 📫 Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
@@ -40,14 +39,7 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarabdalgwad&show_icons=true&locale=en" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarabdalgwad" />
 </p>
-
