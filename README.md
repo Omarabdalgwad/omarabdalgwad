@@ -1,15 +1,15 @@
 <h1 align="left">Hi , I'm Omar Abdalgwad</h1>
-<h3 align="left">Second-year BIS student</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omarabdalgwad&label=Profile%20views&color=0e75b6&style=flat" alt="omarabdalgwad" />
 </p>
 
-👨‍💻 About Me
+### About Me 
+- <h4 align="left">Second-year BIS student</h4>
 *  Currently working on **Grabit**
 *  Learning **Data Structures, Algorithms & Data Engineering**
 *  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
 ---
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarabdalgwad" />
 </p>
