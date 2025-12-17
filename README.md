@@ -8,20 +8,7 @@
 *  Currently working on **Grabit**
 *  Learning **Data Structures, Algorithms & Data Engineering**
 *  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
----
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/oma60404" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/omar-abdalgwad-1a5876328" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@omarabdalgwad21?si=7rRYJuoUWEQV2Gnm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-</p>
-
+*  
 ---
 ### 🛠️ Languages & Tools
 <p align="left">
