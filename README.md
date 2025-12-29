@@ -5,7 +5,6 @@
 
 ### About Me 
 *  Second-year BIS student
-*  Currently working on **Grabit**
 *  Learning **Data Structures, Algorithms & Data Engineering**
 *  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
   
