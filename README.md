@@ -1,4 +1,4 @@
-<h3 align="left">Hi , I'm Omar Abdalgwad</h3>
+<h2 align="left">Hi , I'm Omar Abdalgwad</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omarabdalgwad&label=Profile%20views&color=0e75b6&style=flat" alt="omarabdalgwad" />
 </p>
