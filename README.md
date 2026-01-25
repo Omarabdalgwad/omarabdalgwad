@@ -7,5 +7,5 @@
 *  Learning **Data Structures, Algorithms & Data Engineering**
 *  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
 
-![](https://github-readme-stats.vercel.app/api?username=Omarabdalgwad&theme=github_dark&hide_border=true&show_icons=false&card_width=300)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarabdalgwad&layout=compact&theme=github_dark&hide_border=true&card_width=300)
+![](https://github-readme-stats.vercel.app/api?username=Omarabdalgwad&theme=github_dark&hide_border=true&show_icons=false&card_width=200)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarabdalgwad&layout=compact&theme=github_dark&hide_border=true&card_width=200)
