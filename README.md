@@ -5,4 +5,4 @@
 
 *  Second-year BIS student
 *  Learning **Data Structures, Algorithms & Data Engineering**
-*  Reach me at **[ahlawyomar95@gmail.com](mailto:ahlawyomar95@gmail.com)**
+*  Reach me at **[hegazomar2@gmail.com](mailto:hegazomar2@gmail.com)**
